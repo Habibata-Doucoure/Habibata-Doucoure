@@ -1,11 +1,12 @@
-### Hi there 👋
+Hi there 👋
+En reconversion professionelle, je suis en formation chez les Descodeuses depuis février pour devenir conceptrice développeuse d'applications web et mobile🖥️.
 
-<!--
-**Habibata-Doucoure/Habibata-Doucoure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis actuellement à la recherche d'un stage de 6 mois  en Ile-de-France  à partir de septembre. 
+J'aime le front , le back et je souhaite monter en compétences à travers le stage🚀  .
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
